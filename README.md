@@ -1,5 +1,3 @@
-# NutriNavigator
-AI-Powered Personalized Diet, Restaurant &amp; Workout Recommendation System
 # 🍽️ NutriNavigator
 
 ### AI-Powered Personalized Diet, Restaurant & Workout Recommendation System
